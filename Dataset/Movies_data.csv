@@ -1,0 +1,45 @@
+Movie_ID,Movie_Name,Language,Genre,Release_Date,Duration_Minutes,Certification,Rating,Director,Production_House
+M001,Leo,Tamil,Action,2023-10-19,164,UA,8.0,Lokesh Kanagaraj,Lyca Productions
+M002,Jailer,Tamil,Action,2023-08-10,168,UA,7.1,Nelson Dilipkumar,Sun Pictures
+M003,Vikram,Tamil,Action,2022-06-03,175,UA,8.3,Lokesh Kanagaraj,T-Series
+M004,Ponniyin Selvan I,Tamil,Drama,2022-09-30,167,UA,7.6,Mani Ratnam,Mythri Movie Makers
+M005,Ponniyin Selvan II,Tamil,Drama,2023-04-28,164,UA,7.3,Mani Ratnam,Mythri Movie Makers
+M006,Maamannan,Tamil,Drama,2023-06-29,155,UA,7.3,Mari Selvaraj,Hombale Films
+M007,Good Night,Tamil,Comedy,2023-05-12,142,UA,8.0,Vinayak Chandrasekaran,Lyca Productions
+M008,Love Today,Tamil,Romance,2022-11-04,154,U/A,7.4,Pradeep Ranganathan,Red Giant Movies
+M009,Amaran,Tamil,Biography,2024-10-31,169,UA,8.3,Rajkumar Periasamy,Lyca Productions
+M010,Captain Miller,Tamil,Action,2024-01-12,157,UA,7.0,Arun Matheswaran,Dream Warrior Pictures
+M011,Pushpa 2,Telugu,Action,2024-12-05,200,UA,6.1,Sukumar,Geetha Arts
+M012,RRR,Telugu,Action,2022-03-25,182,UA,7.8,S. S. Rajamouli,Sun Pictures
+M013,Salaar,Telugu,Action,2023-12-22,175,A,6.5,Prashanth Neel,Sun Pictures
+M014,Hi Nanna,Telugu,Romance,2023-12-07,155,UA,8.0,Shouryuv,Lyca Productions
+M015,Kalki 2898 AD,Telugu,Sci-Fi,2024-06-27,181,UA,7.0,Nag Ashwin,Mythri Movie Makers
+M016,Arjun Reddy,Telugu,Drama,2017-08-25,182,A,7.7,Sandeep Reddy Vanga,Mythri Movie Makers
+M017,Baahubali 2,Telugu,Action,2017-04-28,167,UA,8.2,S. S. Rajamouli,Red Giant Movies
+M018,Sita Ramam,Telugu,Romance,2022-08-05,163,U,8.5,Hanu Raghavapudi,Dream Warrior Pictures
+M019,Animal,Hindi,Drama,2023-12-01,201,A,6.1,Sandeep Reddy Vanga,Sun Pictures
+M020,Jawan,Hindi,Action,2023-09-07,169,UA,7.0,Atlee,Red Giant Movies
+M021,Pathaan,Hindi,Action,2023-01-25,146,UA,5.9,Siddharth Anand,Mythri Movie Makers
+M022,12th Fail,Hindi,Drama,2023-10-27,147,U,9.0,Vidhu Vinod Chopra,Red Giant Movies
+M023,Stree 2,Hindi,Comedy,2024-08-15,149,UA,6.9,Amar Kaushik,Geetha Arts
+M024,Bhool Bhulaiyaa 2,Hindi,Comedy,2022-05-20,143,UA,5.9,Anees Bazmee,Mythri Movie Makers
+M025,Rocky Aur Rani Kii Prem Kahaani,Hindi,Romance,2023-07-28,168,UA,6.8,Karan Johar,Vyjayanthi Movies
+M026,Drishyam 2,Hindi,Thriller,2022-11-18,140,UA,8.2,Abhishek Pathak,Dream Warrior Pictures
+M027,KGF Chapter 2,Kannada,Action,2022-04-14,168,UA,8.3,Prashanth Neel,T-Series
+M028,Kantara,Kannada,Action,2022-09-30,148,UA,8.2,Rishab Shetty,Sun Pictures
+M029,777 Charlie,Kannada,Adventure,2022-06-10,164,U,8.7,Kiranraj K,Hombale Films
+M030,Kirik Party,Kannada,Comedy,2016-12-30,165,U,8.0,Rishab Shetty,Geetha Arts
+M031,Bangalore Days,Malayalam,Drama,2014-05-30,171,U,8.3,Anjali Menon,Dharma Productions
+M032,Premam,Malayalam,Romance,2015-05-29,156,U,8.3,Alphonse Puthren,T-Series
+M033,Lucifer,Malayalam,Action,2019-03-28,175,UA,7.5,Prithviraj Sukumaran,Hombale Films
+M034,Manjummel Boys,Malayalam,Adventure,2024-02-22,135,U,8.3,Chidambaram,Mythri Movie Makers
+M035,Aavesham,Malayalam,Comedy,2024-04-11,158,A,7.8,Jithu Madhavan,Dharma Productions
+M036,Avengers Endgame,English,Action,2019-04-26,181,UA,8.4,Anthony Russo,Lyca Productions
+M037,Oppenheimer,English,Biography,2023-07-21,180,UA,8.5,Christopher Nolan,Lyca Productions
+M038,Barbie,English,Comedy,2023-07-21,114,UA,6.8,Greta Gerwig,Geetha Arts
+M039,Dune: Part Two,English,Sci-Fi,2024-03-01,166,UA,8.5,Denis Villeneuve,Lyca Productions
+M040,Inside Out 2,English,Animation,2024-06-14,96,U,7.6,Kelsey Mann,Dharma Productions
+M007,Good Night,Tamil,Comedy,2023-05-12,142,UA,8.0,Vinayak Chandrasekaran,Lyca Productions
+M002,Jailer,Tamil,Action,2023-08-10,168,UA,7.1,Nelson Dilipkumar,Sun Pictures
+M020,Jawan,Hindi,Action,2023-09-07,169,UA,7.0,Atlee,Red Giant Movies
+M030,Kirik Party,Kannada,Comedy,2016-12-30,165,U,8.0,Rishab Shetty,Geetha Arts

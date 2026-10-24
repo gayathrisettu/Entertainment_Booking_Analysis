@@ -1,0 +1,54 @@
+Cinema_ID,Cinema_Name,City,State,Cinema_Type,Screens,Total_Seats,Base_Ticket_Price
+C011,"Cinepolis City Centre, Chennai",Chennai,Tamil Nadu,Multiplex,10,1520,240
+C012,"Miraj Cinemas Grand Mall, Chennai",Chennai,Tamil Nadu,Multiplex,6,1086,160
+C013,"Mukta A2 Cinemas Forum Mall, Chennai",Chennai,Tamil Nadu,Multiplex,9,1431,240
+C021,"Miraj Cinemas City Centre, Coimbatore",Coimbatore,Tamil Nadu,Multiplex,4,756,220
+C022,"Mukta A2 Cinemas Grand Mall, Coimbatore",Coimbatore,Tamil Nadu,Multiplex,4,660,200
+C023,"MovieMax Forum Mall, Coimbatore",Coimbatore,Tamil Nadu,Multiplex,10,1700,240
+C031,"Mukta A2 Cinemas City Centre, Madurai",Madurai,Tamil Nadu,Multiplex,10,1530,240
+C032,"MovieMax Grand Mall, Madurai",Madurai,Tamil Nadu,Multiplex,5,875,160
+C033,"Asian Cinemas Forum Mall, Madurai",Madurai,Tamil Nadu,Multiplex,4,688,180
+C041,"MovieMax City Centre, Salem",Salem,Tamil Nadu,Multiplex,10,1480,160
+C042,"Asian Cinemas Grand Mall, Salem",Salem,Tamil Nadu,Multiplex,10,1440,280
+C043,"City Pride Forum Mall, Salem",Salem,Tamil Nadu,Multiplex,4,616,200
+C051,"Asian Cinemas City Centre, Bengaluru",Bengaluru,Karnataka,Multiplex,7,1190,280
+C052,"City Pride Grand Mall, Bengaluru",Bengaluru,Karnataka,Multiplex,6,840,200
+C053,"PVR Forum Mall, Bengaluru",Bengaluru,Karnataka,Multiplex,6,858,260
+C061,"City Pride City Centre, Mysuru",Mysuru,Karnataka,Multiplex,6,1044,260
+C062,"PVR Grand Mall, Mysuru",Mysuru,Karnataka,Multiplex,9,1206,240
+C063,"INOX Forum Mall, Mysuru",Mysuru,Karnataka,Multiplex,9,1260,240
+C071,"PVR City Centre, Hyderabad",Hyderabad,Telangana,Multiplex,9,1305,180
+C072,"INOX Grand Mall, Hyderabad",Hyderabad,Telangana,Multiplex,7,1078,200
+C073,"Cinepolis Forum Mall, Hyderabad",Hyderabad,Telangana,Multiplex,9,1566,240
+C081,"INOX City Centre, Vijayawada",Vijayawada,Andhra Pradesh,Multiplex,5,865,200
+C082,"Cinepolis Grand Mall, Vijayawada",Vijayawada,Andhra Pradesh,Multiplex,10,1790,280
+C083,"Miraj Cinemas Forum Mall, Vijayawada",Vijayawada,Andhra Pradesh,Multiplex,4,576,280
+C091,"Cinepolis City Centre, Mumbai",Mumbai,Maharashtra,Multiplex,4,724,200
+C092,"Miraj Cinemas Grand Mall, Mumbai",Mumbai,Maharashtra,Multiplex,7,1029,160
+C093,"Mukta A2 Cinemas Forum Mall, Mumbai",Mumbai,Maharashtra,Multiplex,5,940,240
+C101,"Miraj Cinemas City Centre, Pune",Pune,Maharashtra,Multiplex,9,1350,180
+C102,"Mukta A2 Cinemas Grand Mall, Pune",Pune,Maharashtra,Multiplex,9,1449,220
+C103,"MovieMax Forum Mall, Pune",Pune,Maharashtra,Multiplex,9,1431,180
+C111,"Mukta A2 Cinemas City Centre, Delhi",Delhi,Delhi,Multiplex,6,828,180
+C112,"MovieMax Grand Mall, Delhi",Delhi,Delhi,Multiplex,9,1485,240
+C113,"Asian Cinemas Forum Mall, Delhi",Delhi,Delhi,Multiplex,6,1062,240
+C121,"MovieMax City Centre, Noida",Noida,Uttar Pradesh,Multiplex,7,1309,240
+C122,"Asian Cinemas Grand Mall, Noida",Noida,Uttar Pradesh,Multiplex,7,1071,180
+C123,"City Pride Forum Mall, Noida",Noida,Uttar Pradesh,Multiplex,5,810,220
+C131,"Asian Cinemas City Centre, Kolkata",Kolkata,West Bengal,Multiplex,4,712,160
+C132,"City Pride Grand Mall, Kolkata",Kolkata,West Bengal,Multiplex,10,1370,180
+C133,"PVR Forum Mall, Kolkata",Kolkata,West Bengal,Multiplex,9,1260,280
+C141,"City Pride City Centre, Ahmedabad",Ahmedabad,Gujarat,Multiplex,9,1413,240
+C142,"PVR Grand Mall, Ahmedabad",Ahmedabad,Gujarat,Multiplex,4,616,220
+C143,"INOX Forum Mall, Ahmedabad",Ahmedabad,Gujarat,Multiplex,8,1272,240
+C151,"PVR City Centre, Kochi",Kochi,Kerala,Multiplex,6,990,280
+C152,"INOX Grand Mall, Kochi",Kochi,Kerala,Multiplex,4,692,260
+C153,"Cinepolis Forum Mall, Kochi",Kochi,Kerala,Multiplex,4,692,240
+C161,"INOX City Centre, Thiruvananthapuram",Thiruvananthapuram,Kerala,Multiplex,10,1470,280
+C162,"Cinepolis Grand Mall, Thiruvananthapuram",Thiruvananthapuram,Kerala,Multiplex,9,1359,160
+C163,"Miraj Cinemas Forum Mall, Thiruvananthapuram",Thiruvananthapuram,Kerala,Multiplex,6,942,180
+C031,"Mukta A2 Cinemas City Centre, Madurai",Madurai,Tamil Nadu,Multiplex,10,1530,240
+C112,"MovieMax Grand Mall, Delhi",Delhi,Delhi,Multiplex,9,1485,240
+C093,"Mukta A2 Cinemas Forum Mall, Mumbai",Mumbai,Maharashtra,Multiplex,5,940,240
+C101,"Miraj Cinemas City Centre, Pune",Pune,Maharashtra,Multiplex,9,1350,180
+C022,"Mukta A2 Cinemas Grand Mall, Coimbatore",Coimbatore,Tamil Nadu,Multiplex,4,660,200
