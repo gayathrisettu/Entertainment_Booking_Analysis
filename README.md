@@ -6,9 +6,6 @@
 ## 📌 Project Overview
 This project focuses on analyzing movie ticket booking data using **Microsoft Excel and Power BI**. The objective is to clean and organize booking records, analyze booking trends, and create an interactive dashboard to gain insights into booking performance.
 
-## Raw Dataset Google drive link 
-
-https://drive.google.com/drive/u/2/folders/1fc4AOrjO4tdbKWkRtvqMpuzLGdO1Ysx3
 
 ## 🛠️ Tools & Technologies
 - **Microsoft Excel** – Data cleaning, duplicate removal, and formula-based analysis
@@ -75,7 +72,7 @@ Analyzed booking performance based on:
 - `Screenshots/` – Dashboard preview images, if included
 
 ## 👤 Author
-**Data Analyst Portfolio Project**
+**Ticket Booking analysis--> Demonstartes the practical example about data analysis**
 
 This project demonstrates practical skills in Excel-based data preparation, exploratory analysis, and Power BI dashboard development.
 
